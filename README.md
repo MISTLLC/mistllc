@@ -1,4 +1,4 @@
-# mistllc
+# Mistllc
 
 Welcome to the **MISTLLC** project! This is a comprehensive platform linked to the MIST music record label. MISTLLC aims to create a vibrant community for music lovers, fans, and creators by offering exclusive access to audio files, merchandise, forums, and direct interaction with artists and producers.
 
